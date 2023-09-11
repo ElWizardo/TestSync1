@@ -14,5 +14,5 @@ jobs:
       - uses: tgymnich/fork-sync@v1.9
         with:
           owner: elwizardo
-          base: elwizardo/testsync1
-          head: billyddkid/testsync1
+          base: main
+          head: main
