@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.9
         with:
-          owner: ElWizardo
-          base: master
-          head: master
+          owner: elwizardo
+          base: elwizardo/testsync1
+          head: billyddkid/testsync1
